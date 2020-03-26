@@ -1,5 +1,5 @@
 # Python-para-economistas
-Dado que no encontré hasta ahora ningún tutorial o curso en español con enfoque en lo que hace mi carrera, sería bueno tener al menos un precedente en GitHub.La estructura del curso es la siguiente :
+Dado que no encontré hasta ahora ningún tutorial o curso en español con enfoque en lo que hace mi carrera, sería bueno tener al menos un precedente en GitHub. La estructura del curso es la siguiente :
 
 # 1. Programación básica en Python:
   -Tipos de datos : int, string, etc
